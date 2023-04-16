@@ -337,7 +337,7 @@
                     <div class="footer-text">
                         <p>
                             
-                            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This Project is made by Shashank Kumar & Varunika Palsetty</a>
+                            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This Project is made by Raffiq</a>
 
                         </p>
                     </div>

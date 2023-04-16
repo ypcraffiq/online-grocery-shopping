@@ -1,3 +1,3 @@
 <footer>
-<p>&copy 2019 . All Rights Reserved | Design by Shashank Kumar </p>
+<p>&copy 2019 . All Rights Reserved | Design by Raffiq </p>
 </footer>
